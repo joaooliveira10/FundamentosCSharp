@@ -1,0 +1,14 @@
+C:\WorkSpace\Estudo .NET\AppClientes\AppClientes\bin\Debug\net9.0\AppClientes.exe
+C:\WorkSpace\Estudo .NET\AppClientes\AppClientes\bin\Debug\net9.0\AppClientes.deps.json
+C:\WorkSpace\Estudo .NET\AppClientes\AppClientes\bin\Debug\net9.0\AppClientes.runtimeconfig.json
+C:\WorkSpace\Estudo .NET\AppClientes\AppClientes\bin\Debug\net9.0\AppClientes.dll
+C:\WorkSpace\Estudo .NET\AppClientes\AppClientes\bin\Debug\net9.0\AppClientes.pdb
+C:\WorkSpace\Estudo .NET\AppClientes\AppClientes\obj\Debug\net9.0\AppClientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkSpace\Estudo .NET\AppClientes\AppClientes\obj\Debug\net9.0\AppClientes.AssemblyInfoInputs.cache
+C:\WorkSpace\Estudo .NET\AppClientes\AppClientes\obj\Debug\net9.0\AppClientes.AssemblyInfo.cs
+C:\WorkSpace\Estudo .NET\AppClientes\AppClientes\obj\Debug\net9.0\AppClientes.csproj.CoreCompileInputs.cache
+C:\WorkSpace\Estudo .NET\AppClientes\AppClientes\obj\Debug\net9.0\AppClientes.dll
+C:\WorkSpace\Estudo .NET\AppClientes\AppClientes\obj\Debug\net9.0\refint\AppClientes.dll
+C:\WorkSpace\Estudo .NET\AppClientes\AppClientes\obj\Debug\net9.0\AppClientes.pdb
+C:\WorkSpace\Estudo .NET\AppClientes\AppClientes\obj\Debug\net9.0\AppClientes.genruntimeconfig.cache
+C:\WorkSpace\Estudo .NET\AppClientes\AppClientes\obj\Debug\net9.0\ref\AppClientes.dll

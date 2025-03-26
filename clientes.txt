@@ -1,0 +1,1 @@
+[{"Id":1,"Nome":"joao","Email":"joao@aaa","Telefone":65666666666,"DataCadastro":"2025-03-25T17:46:28.9896002-04:00","DataNascimento":"1212-12-12","Desconto":12.00}]
